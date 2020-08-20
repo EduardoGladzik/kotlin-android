@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Aula22</string>
+
+    <string name="mainactivity_edittext_name">Type your name</string>
+    <string name="mainactivity_edittext_gender">Type your gender</string>
+    <string name="mainactivity_edittext_income">Type your income</string>
+    <string name="mainactivity_button_ok">OK</string>
+</resources>
