@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dados</string>
+
+    <string name="d20">Rolar d20</string>
+    <string name="d12">Rolar d12</string>
+    <string name="d10">Rolar d10</string>
+    <string name="d8">Rolar d8</string>
+    <string name="d6">Rolar d6</string>
+    <string name="d4">Rolar d4</string>
+    <string name="contentDescription">Dado de 20 faces, utilizado em RPG</string>
+
+    <string name="you_threw">você rolou</string>
+    <string name="on_the_dices">nos dados!</string>
+
+    <string name="text_name">escreva o nome do seu personagem</string>
+    <string name="button_login">confirmar</string>
+    <string name="text_age">escreva a idade do seu personagem</string>
+    <string name="button_next">Mais dados</string>
+    <string name="stop_resume_music">Para/Retomar musica</string>
+</resources>

@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Dices</string>
+
+    <string name="d20">Roll d20</string>
+    <string name="d12">Roll d12</string>
+    <string name="d10">Roll d10</string>
+    <string name="d8">Roll d8</string>
+    <string name="d6">Roll d6</string>
+    <string name="d4">Roll d4</string>
+    <string name="contentDescription">Rpg dice with 20 faces</string>
+
+    <string name="you_threw">you threw</string>
+    <string name="on_the_dices">on the dices!</string>
+
+    <string name="text_name">type the character name</string>
+    <string name="button_login">confirm</string>
+    <string name="text_age">type the character age</string>
+    <string name="button_next">More dices</string>
+    <string name="stop_resume_music">Stop/Resume music</string>
+</resources>
