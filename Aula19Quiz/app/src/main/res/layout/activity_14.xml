@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activities.Activity14">
+
+    <TextView
+        android:id="@+id/activity14TextViewQuestion"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="56dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginBottom="30dp"
+        android:text="TextView"
+        android:textSize="30sp"
+        app:layout_constraintBottom_toTopOf="@+id/activity14RadioGroup"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/activity14TextViewScore"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:layout_marginEnd="56dp"
+        android:text="@string/textview_score"
+        android:textSize="24sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <RadioGroup
+        android:id="@+id/activity14RadioGroup"
+        android:layout_width="351dp"
+        android:layout_height="132dp"
+        android:layout_marginStart="40dp"
+        android:layout_marginEnd="40dp"
+        android:background="@drawable/shape_title"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.3">
+
+        <RadioButton
+            android:id="@+id/activity14RadioButtonA"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="RadioButton" />
+
+        <RadioButton
+            android:id="@+id/activity14RadioButtonB"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="RadioButton" />
+
+        <RadioButton
+            android:id="@+id/activity14RadioButtonC"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="RadioButton" />
+
+        <RadioButton
+            android:id="@+id/activity14RadioButtonD"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="RadioButton" />
+    </RadioGroup>
+
+    <Button
+        android:id="@+id/activity14ButtonConfirm"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="56dp"
+        android:layout_marginTop="72dp"
+        android:layout_marginEnd="56dp"
+        android:background="@drawable/shape_title"
+        android:text="@string/button_confirm"
+        android:textSize="30sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/activity14RadioGroup" />
+
+    <Button
+        android:id="@+id/activity14ButtonNext"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="56dp"
+        android:layout_marginTop="56dp"
+        android:layout_marginEnd="56dp"
+        android:background="@drawable/shape_title"
+        android:text="@string/button_next"
+        android:textSize="30sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/activity14ButtonConfirm" />
+</androidx.constraintlayout.widget.ConstraintLayout>

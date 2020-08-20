@@ -1,0 +1,53 @@
+<resources>
+    <!--    All activities-->
+    <string name="app_name">Pokemon Quiz</string>
+    <string name="button_confirm">Confirm</string>
+    <string name="button_next">Next phase</string>
+    <string name="textview_score">"Score: "</string>
+    <string name="toast_thats_correct">That\'s Correct</string>
+    <string name="toast_thats_incorrect">That\'s Incorrect</string>
+    <!--    MainActivity-->
+    <string name="mainactivity_welcome">Welcome to the final ultimate backstaber Pokemon Quiz...GOTCHA!!!</string>
+    <string name="mainactivity_button_start">Start now</string>
+    <!--    FinalActivity-->
+    <string name="finalactivity_text_final_score">Final score:</string>
+    <string name="finalactivity_text_correct_answers">Correct Answers:</string>
+    <string name="finalActivity_buton_play_again">Play Again</string>
+    <!--    Activity 20-->
+    <string name="activity20_button_next">See results</string>
+<!--    Questions-->
+    <string name="question1">What was the first Pokemon game?</string>
+    <string name="question2">Initial Aquatic pokemon of the second generation</string>
+    <string name="question3">Whats the evolution of Bulbasaur?</string>
+    <string name="question4">Whats the Great Ball Color?</string>
+    <string name="question5">How many initials exists today? (Sword and Shield generation)</string>
+    <string name="question6">Who is the first grass initial?</string>
+    <string name="question7">How many pokemon leagues Ash won? and lose?</string>
+    <string name="question8">Whats the name of the Legendary bird of the fire type</string>
+    <string name="question9">Whats the name of the Legendary bird of the ice type</string>
+    <string name="question10">Whats the name of the Legendary bird of the eletric type</string>
+    <string name="question11">Whats the name of the Legendary dog of the fire type</string>
+    <string name="question12">Whats the name of the Legendary dog of the eletric type</string>
+    <string name="question13">Whats the name of the Legendary dog of the water type</string>
+    <string name="question14">Whats the Master Ball Color?</string>
+    <string name="question15">Whats the Ultra Ball Color?</string>
+    <string name="question16">Who is the first water initial?</string>
+    <string name="question17">Who is the first fire initial?</string>
+    <string name="question18">Eevee + Water Stone =</string>
+    <string name="question19">Eevee + Thunder Stone =</string>
+    <string name="question20">Eevee + Fire Stone =</string>
+    <string name="question21">Eevee + Sun Stone =</string>
+    <string name="question22">Eevee + Moon Stone =</string>
+    <string name="question23">Eevee + Leaf Stone =</string>
+    <string name="question24">Eevee + Ice Stone =</string>
+    <string name="question25">Who was the Ash\'s first pokemon?</string>
+    <string name="question26">How many badges you can get in Kanto?</string>
+    <string name="question27">Witch bagde you get to defeat Brock?</string>
+    <string name="question28">Witch bagde you get to defeat Mysti?</string>
+    <string name="question29">Witch bagde you get to defeat Surge?</string>
+    <string name="question30">Witch bagde you get to defeat Blaine?</string>
+    <string name="red">Red</string>
+    <string name="yellow">Yellow</string>
+    <string name="purple">Purple</string>
+    <string name="blue">Blue</string>
+</resources>

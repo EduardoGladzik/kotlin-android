@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--    All activities-->
+    <string name="app_name">Pokemon Quiz</string>
+    <string name="button_confirm">Confirmar</string>
+    <string name="button_next">Próxima fase</string>
+    <string name="textview_score">"Pontuação: "</string>
+    <string name="toast_thats_correct">Correto</string>
+    <string name="toast_thats_incorrect">Incorreto</string>
+    <!--    MainActivity-->
+    <string name="mainactivity_welcome">Bim vindo ao Quiz de Pokemon...GOTCHA!!!</string>
+    <string name="mainactivity_button_start">Começar</string>
+    <!--    FinalActivity-->
+    <string name="finalactivity_text_final_score">Pontuação Final:</string>
+    <string name="finalactivity_text_correct_answers">Respostas corretas:</string>
+    <string name="finalActivity_buton_play_again">Jogar novamente</string>
+    <!--    Activity 20-->
+    <string name="activity20_button_next">Ver resultados</string>
+<!--    Questions-->
+    <!--    Questions-->
+    <string name="question1">Qual foi o primeiro jogo de Pokemon?</string>
+    <string name="question2">Inicial aquatico da sugunda geração</string>
+    <string name="question3">Qual a evolução do Bulbassauro?</string>
+    <string name="question4">Qual a cor da Great ball?</string>
+    <string name="question5">Quantos iniciais exitem hoje em dia? (Geração Sword and Shield)</string>
+    <string name="question6">Quem é o primeiro inicial de grama?</string>
+    <string name="question7">Quantas ligas pokemon Ash ganhou? e quantas perdeu?</string>
+    <string name="question8">Qual o nome do Passaro lendário de fogo?</string>
+    <string name="question9">Qual o nome do Passaro lendário de gelo?</string>
+    <string name="question10">Qual o nome do Passaro lendário eletrico?</string>
+    <string name="question11">Qual o nome do Cão lendário de fogo?</string>
+    <string name="question12">Qual o nome do Cão lendário eletrico</string>
+    <string name="question13">Qual o nome do Cão lendário aquatico?</string>
+    <string name="question14">Qual a cor da Master ball?</string>
+    <string name="question15">Qual a cor da Ultra ball?</string>
+    <string name="question16">Quem é o primeiro inicial aquatico?</string>
+    <string name="question17">Quem é o primeiro inicial de fogo?</string>
+    <string name="question18">Eevee + Pedra da água =</string>
+    <string name="question19">Eevee + Pedra do trovão =</string>
+    <string name="question20">Eevee + Pedra do fogo =</string>
+    <string name="question21">Eevee + Pedra do sol =</string>
+    <string name="question22">Eevee + Pedra da lua =</string>
+    <string name="question23">Eevee + Pedra da folha =</string>
+    <string name="question24">Eevee + Pedra do gelo =</string>
+    <string name="question25">Quem foi o primeiro pokemon de Ash?</string>
+    <string name="question26">Quantas insigneas é possível conseguir em Kanto?</string>
+    <string name="question27">Qual insignea é recebida ao derrotar Brock?</string>
+    <string name="question28">Qual insignea é recebida ao derrotar Mysti?</string>
+    <string name="question29">Qual insignea é recebida ao derrotar Surge?</string>
+    <string name="question30">Qual insignea é recebida ao derrotar Blaine?</string>
+    <string name="red">Vermelho</string>
+    <string name="yellow">Amarelo</string>
+    <string name="purple">Roxo</string>
+    <string name="blue">Azul</string>
+</resources>
