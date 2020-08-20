@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Aula23AlertListener</string>
+    <string name="mainactivity_button_alert">Alert</string>
+</resources>
