@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Ex2Aula15</string>
+
+    <string name="your_name_is">Your name is</string>
+    <string name="your_fullname_is">Your name is</string>
+    <string name="your_gender_is">Your gender is</string>
+    <string name="text_button">confirm</string>
+    <string name="text_name">type your name</string>
+
+    <string-array name="spinner_gender">
+        <item>Choose a gender</item>
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+</resources>

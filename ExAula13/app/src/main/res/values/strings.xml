@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ExAula13</string>
+    <string name="text_url">type the url here</string>
+    <string name="text_button_open_navigator">open browser</string>
+    <string name="text_discator">type the phone number here</string>
+    <string name="text_button_open_dialer">open dialer</string>
+    <string name="text_something">type something</string>
+    <string name="button_something">confirm</string>
+    <string name="button_show_gif">show gif</string>
+</resources>
