@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ex1Layout</string>
+
+    <string name="button1">VERMELHO</string>
+    <string name="button2">LARANJA</string>
+    <string name="button3">AMARELO</string>
+    <string name="button4">VERDE</string>
+    <string name="button5">AZUL</string>
+    <string name="button6">ANIL</string>
+    <string name="button7">ROSA</string>
+</resources>

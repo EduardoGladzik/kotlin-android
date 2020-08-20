@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Ex2Layout</string>
+
+    <string name="button1">RED</string>
+    <string name="button2">ORANGE</string>
+    <string name="button3">YELLOW</string>
+    <string name="button4">GREEN</string>
+    <string name="button5">BLUE</string>
+    <string name="button6">INDIGO</string>
+    <string name="button7">VIOLET</string>
+</resources>

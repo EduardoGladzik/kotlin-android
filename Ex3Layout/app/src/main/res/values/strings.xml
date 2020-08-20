@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Ex3Layout</string>
+
+    <string name="RED">RED</string>
+    <string name="GREEN">GREEN</string>
+    <string name="BLUE">BLUE</string>
+    <string name="YELLOW">YELLOW</string>
+    <string name="one">row one</string>
+    <string name="two">row two</string>
+    <string name="three">row three</string>
+    <string name="four">row four</string>
+</resources>

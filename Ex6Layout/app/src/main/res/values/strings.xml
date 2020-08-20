@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Ex6Layout</string>
+    <string name="title">Background</string>
+    <string name="choose">Choose your fighter</string>
+    <string name="content_description">Image of Shibuya</string>
+    <string name="content_description_joker">Joker from Persona 5 Royal</string>
+    <string name="content_description_morgana">Morgana from Persona 5 Royal</string>
+
+    <string name="akechi">
+        Goro Akechi (Japanese: 明智 吾郎, Hepburn: Akechi Gorō), who uses the code name Crow (クロウ, Kurō), is a fictional character in the Persona series, first appearing in Persona 5. A high school detective nicknamed "The Second Coming of the Detective Prince", Akechi opposes the Phantom Thieves actions and becomes both a rival and a foil to Joker, the groups leader. Critical reception towards his character has been mixed despite ranking high on official character polls
+    </string>
+    <string name="futaba">
+        Futaba Sakura (佐倉 双葉, Sakura Futaba), using the Phantom Thief code name "Oracle" ("Navi" in the Japanese version), is the adopted daughter of Sojiro Sakura (the owner of the café where Joker lives). Although Futaba is a genius computer hacker, she is a recluse at the beginning of the game and fearful of large crowds. Shortly before the game begins, she sees her mother (Wakaba Isshiki) killed by a car and is framed for her death with a forged suicide note.
+    </string>
+    <string name="yoshizawa">
+        Kasumi Yoshizawa (芳澤 かすみ, Yoshizawa Kasumi), who assumes the codename "Violet", is a character introduced in Persona 5 Royal. She is a first-year student that transfers to Shujin Academy around the same time as Joker. She is a rhythmic gymnast and due to her abilities the school has high hopes for her.
+    </string>
+    <string name="haru">
+        Haru Okumura (奥村 春, Okumura Haru), using the Phantom Thief codename "Noir", is the heiress of Okumura Foods (owner of the Big Bang Burger restaurant chain). Haru first appears at the fireworks festival in July and, later, as a third-year chaperone on the school trip. When the Phantom Thieves first encounter her in the Metaverse, she is using the alias "Beauty Thief" (美少女怪盗, bishōjo kaitō) and is allied with Morgana (who has temporarily left the Phantom Thieves). She becomes a Phantom Thief to escape a marriage arranged by her father, Kunikazu Okumura, realizing that her father sees her as a tool to advance his business and political ambitions.
+    </string>
+    <string name="ann">
+        Ann Takamaki (高巻 杏, Takamaki An, Anne in the Japanese version), using the Phantom Thief codename "Panther", is a one-quarter-American girl in Jokers class who recently returned to Japan. She speaks English fluently, and is a model. Despite her popularity and unique appearance, Ann is shunned by the girls in her class because of her rumored relationship with the gym teacher Kamoshida. Hashino describes Ann as "the life of the party", who "will have an impact on the fate of the main characters."
+    </string>
+    <string name="joka">
+        The protagonist, who goes by the Phantom Thief codename "Joker", is the games main playable character. In the game, he is a second-year high school student who gets expelled due to a false accusation of assault from a corrupt politician. As a result, he leaves his hometown and moves in with a family friend in Tokyo to serve a one-year probation. Following his transfer to a new school, he and a group of other students awaken to a supernatural power known as the Persona. Soon after, they form a vigilante group known as the Phantom Thieves of Hearts, whose purpose is to explore the Metaverse, a metaphysical realm consisting of the physical manifestation of humanitys subconscious desires, to remove malevolent intent from peoples hearts.
+    </string>
+    <string name="makoto">
+        Makoto Niijima (新島 真, Niijima Makoto), using the Phantom Thief codename "Queen", is the student-council president at Shujin Academy. Makoto, the schools top student, is considered the brains of the Phantom Thieves. Analytical, she can deduce conclusions, theorize in several situations, and make elaborate plans to succeed. Behind this exterior, she has an inferiority complex and often praises her sister Sae Niijima. Makoto feels that she is a burden to Sae because of their fathers death, which is her motivation to work hard, be successful, and reduce her sisters stress.
+    </string>
+    <string name="morgana">
+        Morgana (モルガナ, Morugana), using the Phantom Thief code name "Mona", is an amnesiac, mysterious cat-like creature that encounters the protagonist after they free him from his cell in Kamoshidas Palace. Wanting to discover his origins and restore his true form, he joins the protagonist in his heists, teaches him and his allies the mechanics of the Metaverse, and the ropes of being a phantom thief. Hashino describes Morgana as similar to Persona 4s Teddie and a mentor of the Phantom Thieves. Outside the Metaverse, Morgana has the appearance of a domestic cat and lives with Joker.
+    </string>
+    <string name="yusuke">
+        Yusuke Kitagawa (喜多川 祐介, Kitagawa Yūsuke), using the Phantom Thief codename "Fox", is a student in the fine-arts department of Kosei High School.[31] A composed, elegant, observant young man, he has a passion for art and is concerned with the aesthetics of his environment. Yusuke has been sheltered throughout his life, and is eccentric around other people. Because he is poor, he often skips meals to save money for art supplies, eating ravenously when he gets a chance to.
+    </string>
+    <string name="ryuji">
+        Ryuji Sakamoto (坂本 竜司, Sakamoto Ryūji), using the Phantom Thief codename "Skull", is Jokers first companion. Hashino describes Ryuji as "defiant", but a "nice guy". Offended by the slightest comments from others, he can sometimes resort to violence. He came from a family with an abusive father, which caused him and his mother to move away.
+        Ryuji was formerly the star runner on Shujin Academys track and field team. He was forced to quit after Kamoshida broke his leg when he stood up to him. Because Ryuji struck Kamoshida, the track team was suspended; blamed for the incident, he earned a reputation as a delinquent at the school.
+    </string>
+</resources>

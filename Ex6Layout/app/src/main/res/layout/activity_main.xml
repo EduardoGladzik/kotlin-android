@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/shibuya"
+    android:contentDescription="@string/content_description"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="315dp"
+        android:layout_height="325dp"
+        android:layout_marginStart="8dp"
+        android:contentDescription="@string/content_description_joker"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:srcCompat="@drawable/pngjoker" />
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="250dp"
+        android:layout_height="261dp"
+        android:layout_marginEnd="8dp"
+        android:contentDescription="@string/content_description_morgana"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:srcCompat="@drawable/mmmm" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:text="@string/choose"
+        android:textAlignment="center"
+        android:textColor="@color/colorPrimary"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/button_akechi"
+        android:layout_width="75dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="208dp"
+        android:background="@drawable/akechi"
+        app:layout_constraintEnd_toStartOf="@+id/button_futaba"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/button_futaba"
+        android:layout_width="75dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="208dp"
+        android:background="@drawable/futaba"
+        app:layout_constraintEnd_toStartOf="@+id/button_haru"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/button_yoshizawa"
+        android:layout_width="75dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="132dp"
+        android:layout_marginTop="208dp"
+        android:background="@drawable/yoshizawa"
+        app:layout_constraintEnd_toStartOf="@+id/button_ann"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/button_haru"
+        android:layout_width="75dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="208dp"
+        android:layout_marginEnd="164dp"
+        android:background="@drawable/haru"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/button_ann"
+        android:layout_width="75dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="208dp"
+        android:background="@drawable/ann"
+        app:layout_constraintEnd_toStartOf="@+id/button_akechi"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/button_joka"
+        android:layout_width="75dp"
+        android:layout_height="50dp"
+        android:background="@drawable/joker"
+        app:layout_constraintEnd_toStartOf="@+id/button_makoto"
+        app:layout_constraintTop_toBottomOf="@+id/button_akechi" />
+
+    <Button
+        android:id="@+id/button_makoto"
+        android:layout_width="75dp"
+        android:layout_height="50dp"
+        android:background="@drawable/makoto"
+        app:layout_constraintEnd_toStartOf="@+id/button_ryuji"
+        app:layout_constraintTop_toBottomOf="@+id/button_futaba" />
+
+    <Button
+        android:id="@+id/button_morgana"
+        android:layout_width="75dp"
+        android:layout_height="50dp"
+        android:background="@drawable/morgana"
+        app:layout_constraintEnd_toStartOf="@+id/button_joka"
+        app:layout_constraintTop_toBottomOf="@+id/button_ann" />
+
+    <Button
+        android:id="@+id/button_yusuke"
+        android:layout_width="75dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="136dp"
+        android:background="@drawable/y"
+        app:layout_constraintEnd_toStartOf="@+id/button_morgana"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/button_yoshizawa" />
+
+    <Button
+        android:id="@+id/button_ryuji"
+        android:layout_width="75dp"
+        android:layout_height="50dp"
+        android:layout_marginEnd="164dp"
+        android:layout_marginBottom="28dp"
+        android:background="@drawable/ryuji"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/button_haru"
+        app:layout_constraintVertical_bias="0.0" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
+

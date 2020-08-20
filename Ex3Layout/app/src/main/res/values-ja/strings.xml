@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="RED">AKA</string>
+    <string name="GREEN">MIDORI</string>
+    <string name="BLUE">AO</string>
+    <string name="YELLOW">KIIRU</string>
+    <string name="one">sen ichi</string>
+    <string name="two">sen ni</string>
+    <string name="three">sen san</string>
+    <string name="four">sen shi</string>
+</resources>

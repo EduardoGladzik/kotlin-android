@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="RED">VERMELHO</string>
+    <string name="GREEN">VERDE</string>
+    <string name="BLUE">AZUL</string>
+    <string name="YELLOW">AMARELO</string>
+    <string name="one">linha um</string>
+    <string name="two">linha dois</string>
+    <string name="three">linha três</string>
+    <string name="four">linhas quatro</string>
+</resources>
