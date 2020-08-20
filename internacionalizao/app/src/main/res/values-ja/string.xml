@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">internacionalização</string>
+
+    <string name="fala1">ここに戻って.\n(Koko ni modotte)</string>
+    <string name="fala2">ああ、一緒に過ごす永遠.\n(Ā, issho ni sugosu eien)</string>
+    <string name="fala3">私はベッドの下の怪物です.\n(Watashi wa beddo no shita no kaibutsudesu)</string>
+    <string name="fala4">リラックスして、それを起こ.しましょう\n(Rirakkusu shite, sore o okoshimashou)</string>
+    <string name="fala5">ああ、悲惨な甘い音.\n(Ā, hisan na amai oto)</string>
+</resources>

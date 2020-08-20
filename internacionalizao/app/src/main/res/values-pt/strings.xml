@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">internacionalização</string>
+
+    <string name="fala1">Volte aqui!</string>
+    <string name="fala2">Oh, a eternidade que passaremos juntos.</string>
+    <string name="fala3">Eu sou o monstro de baixo da cama.</string>
+    <string name="fala4">Relaxe, deixe acontecer.</string>
+    <string name="fala5">Oh, os doces sons da miséria.</string>
+</resources>
