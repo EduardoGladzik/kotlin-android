@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ExAula19MenuNativo</string>
+    <string name="menu_main_item_1">Item 1</string>
+    <string name="menu_main_item_2">Item 2</string>
+    <string name="menu_main_item_1_condensed">It 1</string>
+    <string name="menu_main_item_2_condensed">It 2</string>
+    <string name="menu_mainactivity_3">Item 3</string>
+
+    <string name="mainactivity_menu_1">Clicou no menu 1</string>
+    <string name="mainactivity_menu_2">Clicou no menu 2</string>
+    <string name="mainactivity_menu_3">Clicou no menu 3 exclusivo da main activity</string>
+</resources>
