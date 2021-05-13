@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Prova</string>
+    <!--    <Main Activity-->
+    <string name="text_calculator_screen_button">Calculadora</string>
+    <string name="text_random_screen_button">Número aleatório</string>
+    <string name="text_button_go_to_about">Sobre</string>
+    <!--    Calculator Screen-->
+    <string name="text_value_1_calculator_screen">Primeiro valor</string>
+    <string name="text_value_2_calculator_screen">Segundo valor</string>
+    <string-array name="spinner_calculator">
+        <item>Escolha uma operação</item>
+        <item>Somar</item>
+        <item>Subtrair</item>
+        <item>Multiplicar</item>
+        <item>Dividir</item>
+    </string-array>
+    <string name="text_result">O resultado é:</string>
+    <string name="text_choose_an_calculation">Escolha uma operação</string>
+    <string name="text_button_calculate_screen">Calcular</string>
+    <string name="calculator_title">Calculadora</string>
+    <!-- Calculator Class-->
+    <string name="text_value_1">Valor 1:</string>
+    <string name="text_value_2">valor 2:</string>
+    <!--    Random Screen-->
+    <string name="text_button_random_screen">Gerar número</string>
+    <string name="randomizer_title">Número aleatório</string>
+    <!--    About Screen-->
+    <string name="text_name">Eduardo Gladzik Rangel</string>
+    <string name="text_email">eduardogladzik@gmail.com</string>
+    <string name="about_title">Sobre</string>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ExIntentEnviandoObjetoSerializableEParcelable</string>
+    <string name="edittext_name">Type your name</string>
+    <string name="button_send_object">Send Object</string>
+</resources>

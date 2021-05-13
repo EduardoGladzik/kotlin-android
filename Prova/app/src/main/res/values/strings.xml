@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Exam</string>
+<!--    <Main Activity-->
+    <string name="text_calculator_screen_button">Go to calculator screen</string>
+    <string name="text_random_screen_button">Go to random screen</string>
+    <string name="text_button_go_to_about">About</string>
+<!--    Calculator Screen-->
+    <string name="text_value_1_calculator_screen">Type the first value here</string>
+    <string name="text_value_2_calculator_screen">Type the second value here</string>
+    <string-array name="spinner_calculator">
+        <item>Choose an operation</item>
+        <item>Add</item>
+        <item>Subtract</item>
+        <item>Multiply</item>
+        <item>Divide</item>
+    </string-array>
+    <string name="text_result">The result is:</string>
+    <string name="text_choose_an_calculation">Choose an operation</string>
+    <string name="text_button_calculate_screen">Calculate</string>
+    <string name="calculator_title">Calculator</string>
+<!-- Calculator Class-->
+    <string name="text_value_1">Value 1:</string>
+    <string name="text_value_2">value 2:</string>
+<!--    Random Screen-->
+    <string name="text_button_random_screen">Randomize</string>
+    <string name="randomizer_title">Randomizer</string>
+<!--    About Screen-->
+    <string name="text_name">Eduardo Gladzik Rangel</string>
+    <string name="text_email">eduardogladzik@gmail.com</string>
+    <string name="about_title">About</string>
+</resources>

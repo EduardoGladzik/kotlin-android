@@ -15,6 +15,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
+        Quiz.context = this@MainActivity
         Quiz.clearAll()
         play(this@MainActivity, R.raw.sound)
         mainActivityButtonStart.setOnClickListener { startActivity(Intent(this@MainActivity, Activity1::class.java))

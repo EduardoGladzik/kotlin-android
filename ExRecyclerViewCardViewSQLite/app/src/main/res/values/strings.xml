@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ExRecyclerViewCardView</string>
+
+    <string name="editext_name">Type your name</string>
+    <string name="editext_gender">Type your gender</string>
+    <string name="editext_income">Type your income</string>
+    <string name="button_ok">OK</string>
+
+</resources>

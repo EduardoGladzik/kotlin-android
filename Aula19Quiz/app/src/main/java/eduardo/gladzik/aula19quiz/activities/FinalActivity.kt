@@ -6,6 +6,7 @@ import android.os.Bundle
 import android.view.View
 import eduardo.gladzik.aula19quiz.R
 import eduardo.gladzik.aula19quiz.extension.getScore
+import eduardo.gladzik.aula19quiz.extension.play
 import eduardo.gladzik.aula19quiz.extension.vibrate
 import eduardo.gladzik.aula19quiz.model.Quiz
 import kotlinx.android.synthetic.main.activity_final.*
@@ -37,12 +38,16 @@ class FinalActivity : AppCompatActivity() {
 
         if(Quiz.checkAvarageCorrectAnswers() >= 100) {
             finalActivityImageView4.visibility = View.VISIBLE
+            play(this@FinalActivity, R.raw.sound_error)
         } else if(Quiz.checkAvarageCorrectAnswers() > 80) {
             finalActivityImageView3.visibility = View.VISIBLE
+            play(this@FinalActivity, R.raw.sound_ultra)
         } else if(Quiz.checkAvarageCorrectAnswers() > 50) {
             finalActivityImageView2.visibility = View.VISIBLE
+            play(this@FinalActivity, R.raw.sound_great)
         } else {
             finalActivityImageView1.visibility = View.VISIBLE
+            play(this@FinalActivity, R.raw.sound_bad)
         }
     }
 }

@@ -7,6 +7,7 @@ import android.view.View
 import android.widget.RadioButton
 import eduardo.gladzik.aula19quiz.R
 import eduardo.gladzik.aula19quiz.extension.toast
+import eduardo.gladzik.aula19quiz.extension.vibrate
 import eduardo.gladzik.aula19quiz.model.Quiz
 import kotlinx.android.synthetic.main.activity_11.*
 import kotlinx.android.synthetic.main.activity_7.*
@@ -43,6 +44,7 @@ class Activity11 : AppCompatActivity() {
         }
 
         activity11ButtonNext.setOnClickListener {
+            vibrate()
             startActivity(Intent(this@Activity11, Activity12::class.java))
             finish()
         }

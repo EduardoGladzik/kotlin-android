@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TrapPosProva</string>
+
+    <string name="main_activity_text_number">Escreva o número</string>
+    <string name="main_activity_button_see_month">conferir mês</string>
+
+    <string-array name="months">
+        <item name="january">Janeiro</item>
+        <item name="february">Fevereiro</item>
+        <item name="march">Março</item>
+        <item name="april">Abril</item>
+        <item name="may">Maio</item>
+        <item name="june">Junho</item>
+        <item name="july">Julho</item>
+        <item name="august">Agosto</item>
+        <item name="september">Setembro</item>
+        <item name="october">Outubro</item>
+        <item name="november">Novembro</item>
+        <item name="december">Dezembro</item>
+    </string-array>
+
+    <string name="number_equals_to">é</string>
+
+    <string name="invalid_number">Número inválido</string>
+
+    <string name="easter_egg">Cury Backsteber</string>
+</resources>

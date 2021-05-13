@@ -14,6 +14,10 @@
     <string name="finalactivity_text_final_score">Pontuação Final:</string>
     <string name="finalactivity_text_correct_answers">Respostas corretas:</string>
     <string name="finalActivity_buton_play_again">Jogar novamente</string>
+    <string name="finalactivity_master">Master!</string>
+    <string name="finalactivity_ultra">Ultra!</string>
+    <string name="finalactivity_great">Great!</string>
+    <string name="finalactivity_bad">Ruim...</string>
     <!--    Activity 20-->
     <string name="activity20_button_next">Ver resultados</string>
 <!--    Questions-->

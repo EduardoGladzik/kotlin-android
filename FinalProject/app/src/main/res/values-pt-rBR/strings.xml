@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cadastro de feitiços</string>
+    <string name="list_activity_name">Lista de feitiços</string>
+    <string name="add_activity_name">Cadastro feitiços</string>
+    <string name="mainActivity_text_button_classes">Cadastrar feitiços</string>
+    <string name="mainActivity_text_button_languages">Ver feitiços</string>
+
+    <!-- addSpellsActtivity -->
+    <string name="addSpellsActviity_editText_character_name">Nome do personagem</string>
+    <string name="addSpellsActivity_editText_spell_name">Nome do feitiço</string>
+    <string name="addSpellsActivity_editText_spell_range">Alcance do feitiço</string>
+    <string name="addSpellsActivity_editText_spell_duration">duração do feitiço</string>
+    <string name="addSpellsActivity_editText_spell_level">Nível do feitiço</string>
+    <string name="addSpellsActivity_editText_spell_classes">Classes que podem usa-lo</string>
+    <string name="addSpellsActivity_editText_spell_casting">Tempo de conjuração</string>
+    <string name="addSpellsActivity_button">Cadastrar</string>
+
+    <!-- rowSpellsActivity -->
+    <string name="rowSpells_textView_character_name">Nome do personagem</string>
+    <string name="rowSpells_textView_spell_name">Nome do feitiço</string>
+    <string name="rowSpells_textView_spell_range">Alcance do feitiço</string>
+    <string name="rowSpells_textView_spell_duration">Duração do feitiço</string>
+    <string name="rowSpell_textView_spell_level">Nível do feitiço</string>
+    <string name="rowSpells_textView_spell_classes">Classes que podem usa-lo</string>
+    <string name="rowSpells_textView_spell_casting">Tempo de conjuração</string>
+    <string name="rowSpells_textView_id">ID</string>
+    <string name="rwoSpells_textView_all_spell">Todos os seus feitiços</string>
+
+    <!-- rowSpellsActivity_2 -->
+    <string name="rowSpells_textView_id_2">ID:</string>
+    <string name="rowSpells_textView_character_name_2">Nome do personagem:</string>
+    <string name="rwoSpells_textView_spell_name_2">Nome:</string>
+    <string name="rowSpells_TextView_spell_range_2">Alcance:</string>
+    <string name="rowSpells_textView_spell_duration_2">Duração:</string>
+    <string name="rowSpells_textView_spell_level_2">Nível:</string>
+    <string name="rowSpells_textView_spell_classes_2">Classes:</string>
+    <string name="rowSpells_textView_spell_casting_2">Conjuração:</string>
+
+    <!-- add/listSpellsActivity -->
+    <string name="update">Alterar</string>
+    <string name="add">Cadastrar</string>
+    <string name="update_spell">Alterar feitiço</string>
+    <string name="error_try_again">erro, tente novamente</string>
+    <string name="spell_successfully_registered">Feitiço cadastrado com sucesso</string>
+    <string name="spell_successfully_updated">Feitiço alterado com sucesso</string>
+
+    <!-- listSpellsActivity-->
+    <string name="attention">Atenção</string>
+    <string name="you_want_to_delete_or_update">Você deseja excluir ou alterar?</string>
+    <string name="delete">Excluir</string>
+    <string name="spell_successfully_deleted">Feitiço excluido com sucesso!</string>
+</resources>

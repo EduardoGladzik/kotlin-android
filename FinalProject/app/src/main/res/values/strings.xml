@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Spells register</string>
+    <string name="list_activity_name">List spells</string>
+    <string name="add_activity_name">Add spells</string>
+    <string name="mainActivity_text_button_classes">ADD SPELLS</string>
+    <string name="mainActivity_text_button_languages">LIST SPELLS</string>
+
+<!-- addSpellsActtivity -->
+    <string name="addSpellsActviity_editText_character_name">Type the character name</string>
+    <string name="addSpellsActivity_editText_spell_name">Typi the spell name</string>
+    <string name="addSpellsActivity_editText_spell_range">Type the spell range</string>
+    <string name="addSpellsActivity_editText_spell_duration">Type the spell duration</string>
+    <string name="addSpellsActivity_editText_spell_level">Type the spell level</string>
+    <string name="addSpellsActivity_editText_spell_classes">Type the classes that can use this spell</string>
+    <string name="addSpellsActivity_editText_spell_casting">Type the spell casting time</string>
+    <string name="addSpellsActivity_button">Add spell</string>
+
+<!-- rowSpellsActivity -->
+    <string name="rowSpells_textView_character_name">Character name</string>
+    <string name="rowSpells_textView_spell_name">Spell name</string>
+    <string name="rowSpells_textView_spell_range">Spell range</string>
+    <string name="rowSpells_textView_spell_duration">Spell duration</string>
+    <string name="rowSpell_textView_spell_level">Spell level</string>
+    <string name="rowSpells_textView_spell_classes">Spell classes</string>
+    <string name="rowSpells_textView_spell_casting">Spell casting</string>
+    <string name="rowSpells_textView_id">Spell id</string>
+    <string name="rwoSpells_textView_all_spell">All your spells</string>
+
+<!-- rowSpellsActivity_2 -->
+    <string name="rowSpells_textView_id_2">ID:</string>
+    <string name="rowSpells_textView_character_name_2">Character name:</string>
+    <string name="rwoSpells_textView_spell_name_2">Name:</string>
+    <string name="rowSpells_TextView_spell_range_2">Range:</string>
+    <string name="rowSpells_textView_spell_duration_2">Duration:</string>
+    <string name="rowSpells_textView_spell_level_2">Level:</string>
+    <string name="rowSpells_textView_spell_classes_2">Classes:</string>
+    <string name="rowSpells_textView_spell_casting_2">Casting time:</string>
+
+<!-- add/listSpellsActivity -->
+    <string name="update">Update</string>
+    <string name="add">Add</string>
+    <string name="update_spell">Update spell</string>
+    <string name="error_try_again">Error, try again</string>
+    <string name="spell_successfully_registered">Spell successfully registered</string>
+    <string name="spell_successfully_updated">Spell successfully updated</string>
+
+<!-- listSpellsActivity-->
+    <string name="attention">Attention</string>
+    <string name="you_want_to_delete_or_update">You want to delete or update?</string>
+    <string name="delete">Delete</string>
+    <string name="spell_successfully_deleted">Spell successfully deleted</string>
+</resources>

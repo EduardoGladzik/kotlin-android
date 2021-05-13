@@ -26,20 +26,24 @@ class MainActivity : AppCompatActivity() {
 //            Sdicionando o obj a lista
             this.clients.add(client)
 
-            adapter.notifyDataSetChanged()
+            adapter.notifyInseertedItemList()
 
             toast("Cliente adicionado com sucesso!")
         }
 
     }
 
+    private fun resultItemClicked(client: Client) {
+        toast("Você clicou em ${client.toString()}")
+    }
+
     private fun initializer() {
 //        Setando o adapter
-        adapter = ClientAdapter(clients, this@MainActivity)
+        adapter = ClientAdapter(clients, this@MainActivity, {client: Client ->  resultItemClicked(client)})
         recyclerViewClients.adapter = adapter
 
 //        Setando o layout da RacuyclerView - linear, staggered
-        recyclerViewClients.layoutManager = LinearLayoutManager(this@MainActivity)
-//        recyclerViewClients.layoutManager = StaggeredGridLayoutManager(2, StaggeredGridLayoutManager.VERTICAL)
+//        recyclerViewClients.layoutManager = LinearLayoutManager(this@MainActivity)
+        recyclerViewClients.layoutManager = StaggeredGridLayoutManager(2, StaggeredGridLayoutManager.VERTICAL)
     }
 }

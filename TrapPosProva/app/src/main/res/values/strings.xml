@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">TrapPosProva</string>
+
+    <string name="main_activity_text_number">Type the number here</string>
+    <string name="main_activity_button_see_month">see month</string>
+
+    <string-array name="months">
+        <item name="january">January</item>
+        <item name="february">February</item>
+        <item name="march">March</item>
+        <item name="april">April</item>
+        <item name="may">May</item>
+        <item name="june">June</item>
+        <item name="july">July</item>
+        <item name="august">August</item>
+        <item name="september">September</item>
+        <item name="october">Ocotober</item>
+        <item name="november">November</item>
+        <item name="december">December</item>
+    </string-array>
+
+    <string name="number_equals_to">is</string>
+
+    <string name="invalid_number">Invalid number</string>
+
+    <string name="easter_egg">Cury Backsteber</string>
+</resources>

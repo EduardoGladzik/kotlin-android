@@ -1,13 +1,15 @@
 package eduardo.gladzik.aula19quiz.activities
 
-import android.app.Activity
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
 import android.widget.RadioButton
 import eduardo.gladzik.aula19quiz.R
+import eduardo.gladzik.aula19quiz.extension.play
 import eduardo.gladzik.aula19quiz.extension.toast
+import eduardo.gladzik.aula19quiz.extension.vibrate
+import eduardo.gladzik.aula19quiz.model.Question
 import eduardo.gladzik.aula19quiz.model.Quiz
 import kotlinx.android.synthetic.main.activity_1.*
 
@@ -18,6 +20,8 @@ class Activity1 : AppCompatActivity() {
 
         activity1ButtonNext.visibility = View.INVISIBLE
 
+        Quiz.context = this@Activity1
+        Quiz.generateQuestions()
         Quiz.shuffleQuestions()
         val question = Quiz.questionsArray.get(0)
 
@@ -44,7 +48,8 @@ class Activity1 : AppCompatActivity() {
         }
 
         activity1ButtonNext.setOnClickListener {
-            startActivity(Intent(this@Activity1, Activity::class.java))
+            vibrate()
+            startActivity(Intent(this@Activity1, Activity2::class.java))
             finish()
         }
 

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#ffca54</color>
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+    <color name="ddb_red">#c73032</color>
+    <color name="barbarian_f">#e7623e</color>
+    <color name="bard_rogue">#ab6dac</color>
+    <color name="cleric_silver">#91a1b2</color>
+    <color name="druid_moss">#7a853b</color>
+    <color name="fighter_rush">#7f513e</color>
+    <color name="monk_sky">#51a5c5</color>
+    <color name="paladin_gold">#b57e54</color>
+    <color name="ranger_em">#507f62</color>
+    <color name="rogue_ash">#555752</color>
+    <color name="sorcerer_blod">#992e2e</color>
+    <color name="warlock_iris">#7b469b</color>
+    <color name="wizard_cobalt">#2a50a1</color>
+</resources>

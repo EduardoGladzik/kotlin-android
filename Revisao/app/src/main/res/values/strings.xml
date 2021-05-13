@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Revisao</string>
+    <string name="text_button_dial">Dial</string>
+    <string name="text_button_student">Student</string>
+    <string name="text_button_square">Square</string>
+
+    <string name="text_dial">type the phone number</string>
+    <string name="text_button_open_dial">open dial</string>
+
+    <string name="text_student">type the student name</string>
+    <string name="text_grade_1">type the first grade</string>
+    <string name="text_grade_2">type the second grade</string>
+    <string name="text_button_student_grade">ADD</string>
+
+    <string name="text_side_square">type the side of the square</string>
+    <string-array name="spinner_square">
+        <item>Choose</item>
+        <item>Area</item>
+        <item>Perimeter</item>
+        <item>Both</item>
+    </string-array>
+    <string name="neutral_button">OK</string>
+    <string name="text_button_calculate_square">calculate</string>
+</resources>

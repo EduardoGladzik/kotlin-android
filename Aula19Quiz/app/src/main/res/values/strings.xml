@@ -13,6 +13,10 @@
     <string name="finalactivity_text_final_score">Final score:</string>
     <string name="finalactivity_text_correct_answers">Correct Answers:</string>
     <string name="finalActivity_buton_play_again">Play Again</string>
+    <string name="finalactivity_master">Master!</string>
+    <string name="finalactivity_ultra">Ultra!</string>
+    <string name="finalactivity_great">Great!</string>
+    <string name="finalactivity_bad">Bad...</string>
     <!--    Activity 20-->
     <string name="activity20_button_next">See results</string>
 <!--    Questions-->
